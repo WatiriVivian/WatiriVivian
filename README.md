@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WatiriVivian
 - 👀 I’m interested in ... Data analysis & Data science
-- 🌱 I’m currently learning ... Data analysis & Data science
+- 🌱 And currently learning ... Data analysis & Data science
 - 
 
 <!---
